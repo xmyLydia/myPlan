@@ -1,2 +1,2 @@
 # myPlan
-A plan project.
+A plan project. People can write down their ideas and place them here, it could be some small plan but not sure which one to start first, or it can be some travel plan with friends.
